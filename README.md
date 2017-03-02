@@ -12,7 +12,16 @@
 ## 学习大纲
 见  [embedded_system.md](embedded_system.md)
 
+
+
 ## 其他
+- #### [蓝牙ble协议](study_ble.md)
+
+- #### 无线充电协议QI
+
+- #### 芯片查询
+http://www.alldatasheet.com/
+
 根据学习进度，随时更新。
 
 ##### `Standing on Shoulders of Giants.`
