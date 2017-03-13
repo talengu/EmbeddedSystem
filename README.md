@@ -17,7 +17,7 @@
 ## 其他
 - #### [蓝牙ble协议](study_ble.md)
 
-- #### 无线充电协议QI
+- #### 无线充电协议QI [无线充电协议QI](study_qi.md)
 
 - #### 芯片查询
 http://www.alldatasheet.com/
